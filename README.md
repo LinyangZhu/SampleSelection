@@ -19,3 +19,6 @@ The sample number afer sample selection is: 7993
 It should be note that 'Time consumption' can be different for different computers!
 
 For more details, please see our manuscript 'Physics-assisted recursive method for sample selection from turbulence data'.
+
+Contributor:Linyang Zhu
+Email:zhulinyang@mail.nwpu.edu.cn
